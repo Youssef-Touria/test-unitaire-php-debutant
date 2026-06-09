@@ -1,0 +1,13 @@
+{
+    "name": "touria/test-unitaire-php",
+    "description": "Initiation aux tests unitaires avec PHPUnit",
+    "authors": [
+        {
+            "name": "Youssef-Touria",
+            "email": "touria.youssef@laplateforme.io"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
